@@ -38,7 +38,3 @@
 - LinkedIn: <a href = "https://www.linkedin.com/in/shahzada-shah/">shahzada-shah</a>
 - Website: coming soon
 ---
-
-## My GitHub Stats(Only Public Contributions 😑) 
-![Shah's github stats](https://github-readme-stats.vercel.app/api?username=shahstudios&hide=["issues"]&show_icons=true)
----
