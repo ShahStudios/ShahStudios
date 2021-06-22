@@ -1,6 +1,4 @@
-# Hi there, I'm Shah - aka Kazi
-
-<img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
+# Hi there, I'm Shah 
 
 ## I'm a Computer Science Graduate
 
